@@ -1,0 +1,29 @@
+_repo: Clementine_45965
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45965-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lewald, Fanny
+    aliases:
+    - Lewald-Stahr, Fanny
+    - Markus, Fanny
+    birthdate: 1811
+    deathdate: 1889
+    gutenberg_agent_id: '43545'
+    url: http://www.gutenberg.org/2009/agents/43545
+description: ''
+gutenberg_issued: '2014-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45965'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Clementine
+url: http://www.gutenberg.org/ebooks/45965
